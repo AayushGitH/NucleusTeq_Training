@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Program of elaborating all the arithmetic operators and scanning from system console
 class Others
 {
     public static void main(String[] args)
@@ -20,5 +21,6 @@ class Others
         float c = sc.nextFloat();
         float average = (a+b+c)/3;
         System.out.println("The average of the digits is - " + average);
+        System.out.println("This program is written by Aayush Tiwari";
     }
 }
